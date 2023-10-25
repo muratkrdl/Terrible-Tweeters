@@ -3,7 +3,7 @@
 
 This is a replica of angry birds
 
-The goal in the game is pass the all levels
+The goal in the game is to pass the all levels
 
 The player grabs the bird, pulls it back and throws it forward
 
