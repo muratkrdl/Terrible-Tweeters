@@ -3,7 +3,11 @@
 
 This is a replica of angry birds
 
+The goal in the game is pass the all levels
 
+The player grabs the bird, pulls it back and throws it forward
+
+The player must kill all monsters in the level to pass the level
 
 
 # Gameplay
